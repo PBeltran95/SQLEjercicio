@@ -1,0 +1,13 @@
+Seleccione el editor de SQLite, en el centro podrá ver un editor de SQL.
+
+Cree una tabla llamada CURSO con los atributos: 
+
+Código de curso (clave primaria, entero no nulo)
+
+Nombre (varchar no nulo)
+
+Descripcion (varchar)
+
+Turno (varchar no nulo)
+
+Agregue un campo “cupo” de tipo numérico

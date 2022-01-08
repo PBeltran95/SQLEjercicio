@@ -1,0 +1,2 @@
+
+Cree un registro con la clave primaria repetida y verifique que no funciona.
